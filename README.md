@@ -1,0 +1,2 @@
+# Versa_OpenAI_Article_Summarizer
+OpenAI Article Summarizer
