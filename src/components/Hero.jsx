@@ -9,7 +9,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
+            window.open("https://github.com/rballestercoll/Versa_OpenAI_Article_Summarizer", "_blank")
           }
           className='black_btn'
         >
