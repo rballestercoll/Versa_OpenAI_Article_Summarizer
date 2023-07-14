@@ -1,4 +1,4 @@
-https://i.postimg.cc/Hxz1F59d/Captura-de-pantalla-2023-07-13-a-las-17-55-36.png
+[![Captura-de-pantalla-2023-07-13-a-las-17-55-36.png](https://i.postimg.cc/Hxz1F59d/Captura-de-pantalla-2023-07-13-a-las-17-55-36.png)](https://postimg.cc/cgvznvzb)
 # Versa_OpenAI_Article_Summarizer
 Versa is a simple web application that makes use of the API "Article Extractor and Summarizer". The app leverages cutting-edge natural language processing techniques to automatically generate concise summaries of lengthy texts, providing immense value for tasks such as document analysis, research, and content curation.
 > https://rapidapi.com/restyler/api/article-extractor-and-summarizer
